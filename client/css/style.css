@@ -173,3 +173,11 @@ button:hover svg {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
+
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: 100%;
+    max-width: 100%;
+  }
+}
